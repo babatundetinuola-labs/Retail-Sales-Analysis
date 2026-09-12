@@ -1,6 +1,7 @@
 RETAIL SALES ANALYSIS
 
-Project Overview
+Project Overview 
+
    This project analyses a retail sales dataset to understand sales performance, profitability, product performance, regional performance, and monthly trends.
 
  The analysis was completed using Microsoft Excel, with data cleaning, calculations, Pivottables, PivotCHarts, and an interactive-style dashboard.
